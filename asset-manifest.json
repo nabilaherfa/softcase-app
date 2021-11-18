@@ -4,10 +4,10 @@
     "static/js/0.bb014971.chunk.js.map": "/softcase-app/static/js/0.bb014971.chunk.js.map",
     "main.js": "/softcase-app/static/js/main.43f2c5b5.chunk.js",
     "main.js.map": "/softcase-app/static/js/main.43f2c5b5.chunk.js.map",
-    "runtime-main.js": "/softcase-app/static/js/runtime-main.6879ca61.js",
-    "runtime-main.js.map": "/softcase-app/static/js/runtime-main.6879ca61.js.map",
-    "static/js/3.a503d881.chunk.js": "/softcase-app/static/js/3.a503d881.chunk.js",
-    "static/js/3.a503d881.chunk.js.map": "/softcase-app/static/js/3.a503d881.chunk.js.map",
+    "runtime-main.js": "/softcase-app/static/js/runtime-main.e4b35a6f.js",
+    "runtime-main.js.map": "/softcase-app/static/js/runtime-main.e4b35a6f.js.map",
+    "static/js/3.ca6e6b39.chunk.js": "/softcase-app/static/js/3.ca6e6b39.chunk.js",
+    "static/js/3.ca6e6b39.chunk.js.map": "/softcase-app/static/js/3.ca6e6b39.chunk.js.map",
     "static/css/4.cffe9819.chunk.css": "/softcase-app/static/css/4.cffe9819.chunk.css",
     "static/js/4.5b3e219c.chunk.js": "/softcase-app/static/js/4.5b3e219c.chunk.js",
     "static/js/4.5b3e219c.chunk.js.map": "/softcase-app/static/js/4.5b3e219c.chunk.js.map",
@@ -55,7 +55,7 @@
     "static/media/waves.svg": "/softcase-app/static/media/waves.c211ccb9.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6879ca61.js",
+    "static/js/runtime-main.e4b35a6f.js",
     "static/js/5.7ee60938.chunk.js",
     "static/js/main.43f2c5b5.chunk.js"
   ]
